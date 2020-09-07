@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "name": "7efficency.pdf",
+    "picture": "images/pdf.png",
+    "info": "A very nice paper",
+    "link": "https://drive.google.com/file/d/1lvq3Ajbo3BKALG__TYgxT5w9BjQr96Cq/view?usp=sharing"
+  },
+  {
+    "id": 1,
+    "name": "formulario.pdf",
+    "picture": "images/pdf.png",
+    "info": "Formulario per l'esame di statistica numerica",
+    "link": "https://drive.google.com/file/d/1KOObIdTMHPU628FEFFmXtWhrMrhMoWWq/view?usp=sharing"
+  }
+]
