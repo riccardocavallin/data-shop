@@ -1,16 +1,44 @@
 [
   {
     "id": 0,
-    "name": "7efficency.pdf",
+    "name": "covid_9-9-20.pdf",
     "picture": "images/pdf.png",
-    "info": "A very nice paper",
-    "link": "https://drive.google.com/file/d/1lvq3Ajbo3BKALG__TYgxT5w9BjQr96Cq/view?usp=sharing"
+    "info": "Covid Report 9/9/20 in Italy",
+    "link": "https://drive.google.com/file/d/1M_RLDYnRBIPoOl8W8biVhLTh-GyMBGqp/view?usp=sharing"
   },
   {
     "id": 1,
     "name": "formulario.pdf",
     "picture": "images/pdf.png",
-    "info": "Formulario per l'esame di statistica numerica",
+    "info": "Form for Statistics exam",
     "link": "https://drive.google.com/file/d/1KOObIdTMHPU628FEFFmXtWhrMrhMoWWq/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "name": "AppleStore.csv",
+    "picture": "images/csv.png",
+    "info": "Dataset of the most dowloaded apps in the Apple Store",
+    "link": "https://drive.google.com/file/d/1y1YdzPydA39qjF7C5sHwN4QCgu2D7Z32/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "name": "instagram_likes.json",
+    "picture": "images/json.png",
+    "info": "List of all Instagram likes for a specific acccount",
+    "link": "Da includere"
+  },
+  {
+    "id": 4,
+    "name": "duomo_milano.jpg",
+    "picture": "images/image.png",
+    "info": "Picture of Milan Cathedral",
+    "link": "https://drive.google.com/file/d/1JhN20lBQbfUpce2mYLP6G_ymRAFjgfNk/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "name": "domestic_flights.jpg",
+    "picture": "images/zip.png",
+    "info": "U.S. Domestic Flights 1990 to 2009",
+    "link": "https://drive.google.com/file/d/1Nja7uYYuR1LzBusiewhgK9OvwwsofD-J/view?usp=sharing"
   }
 ]

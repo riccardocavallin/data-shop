@@ -1,3 +1,7 @@
 .linkContainer {
     overflow-x: scroll;
 }
+
+.divTemplate {
+    background-color: black;
+}
